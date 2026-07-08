@@ -1,0 +1,6 @@
+{
+  "name": "Football Trivia Quiz",
+  "description": "A polished, responsive football trivia quiz game featuring image questions, interactive feedback, and high-performance soccer-themed dark mode styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
